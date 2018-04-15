@@ -11,7 +11,7 @@ functionality in Windows 10.
 ## System Requirements
  * Node.js v6 or later.
  * Windows 10 build 10.0.15063 or later
- * Windows 10 SDK build 10.0.15063
+ * Windows 10 SDK build **10.0.15063**
 
 ## Usage
 Simply require `noble-uwp` instead of `noble`:
